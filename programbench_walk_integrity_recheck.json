@@ -1,0 +1,25 @@
+{
+  "summary": {
+    "archives_scanned": 1,
+    "distinct_instances": 1,
+    "claimed_solved": 1,
+    "contaminated_archives": 0,
+    "clean_archives": 1,
+    "genuine_clean_solves": [
+      "antonmedv__walk.bf802ef"
+    ],
+    "contaminated_solves": []
+  },
+  "verdicts": [
+    {
+      "instance": "antonmedv__walk.bf802ef",
+      "report_dir": "reports\\programbench_jarvi3_task10_loop5_eval",
+      "archive": "reports\\programbench_jarvi3_task10_loop5_eval\\antonmedv__walk.bf802ef\\submission.tar.gz",
+      "verdict": "CLEAN",
+      "reasons": [],
+      "claimed_solved": true,
+      "claimed_passed": "785/786/786",
+      "details": {}
+    }
+  ]
+}

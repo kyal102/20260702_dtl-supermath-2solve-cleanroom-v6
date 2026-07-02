@@ -1,0 +1,25 @@
+{
+  "summary": {
+    "archives_scanned": 1,
+    "distinct_instances": 1,
+    "claimed_solved": 1,
+    "contaminated_archives": 0,
+    "clean_archives": 1,
+    "genuine_clean_solves": [
+      "cweill__gotests.2a672c5"
+    ],
+    "contaminated_solves": []
+  },
+  "verdicts": [
+    {
+      "instance": "cweill__gotests.2a672c5",
+      "report_dir": "reports\\programbench_jarvi3_task40_loop3_eval",
+      "archive": "reports\\programbench_jarvi3_task40_loop3_eval\\cweill__gotests.2a672c5\\submission.tar.gz",
+      "verdict": "CLEAN",
+      "reasons": [],
+      "claimed_solved": true,
+      "claimed_passed": "750/752/752",
+      "details": {}
+    }
+  ]
+}
