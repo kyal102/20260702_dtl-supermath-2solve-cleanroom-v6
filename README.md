@@ -1,4 +1,5 @@
-﻿# Jarvi3: Themis-G ProgramBench Two-Solve Submission (Cleanroom v6)
+> **Superseded:** This 2-solve artifact is retained for historical audit evidence. The active ProgramBench submission is `20260704_dtl-supermath-5solve-cleanroom-v1`: https://github.com/kyal102/jarvi3-themis-g-programbench-5solve
+# Jarvi3: Themis-G ProgramBench Two-Solve Submission (Cleanroom v6)
 
 This is a public reproducibility artifact for `Jarvi3: Themis-G`, using the DTL/SuperMath verifier lane, with two clean ProgramBench solved instances in the current cleanroom environment.
 
